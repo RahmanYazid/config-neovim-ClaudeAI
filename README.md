@@ -1,1 +1,1 @@
-# config-neovim-ClaudeAI
+# config-neovim
