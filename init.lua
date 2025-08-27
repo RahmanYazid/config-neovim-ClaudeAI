@@ -1,5 +1,5 @@
--- init.lua - Konfigurasi utama Neovim untuk Web Developer
--- File ini harus diletakkan di ~/.config/nvim/init.lua (Linux/Mac) atau %LOCALAPPDATA%\nvim\init.lua (Windows)
+-- init.lua - 
+-- Put this file into ~/.config/nvim/init.lua 
 
 -- ========================================
 -- BASIC SETTINGS
